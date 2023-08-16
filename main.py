@@ -79,5 +79,5 @@ if balanced:
 else:
 	print('Несбалансировано')
 
-print(stack.push(element))
+
 
